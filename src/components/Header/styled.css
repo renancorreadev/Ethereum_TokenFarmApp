@@ -1,0 +1,44 @@
+/*
+*/
+.logo {
+  width: 40%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 90%;
+    height: 100%;
+  }
+}
+.links a {
+  color: white !important;
+  text-decoration: none !important;
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  -moz-transition: filter 0.5s;
+  -ms-transition: filter 0.5s;
+  -o-transition: filter 0.5s;
+
+  margin-right: 4px;
+}
+.links a:hover {
+  filter: brightness(0.8);
+  color: black !important;
+  -webkit-filter: brightness(0.8);
+}
+
+.btn-outline-warning {
+  color: black !important;
+  border-color: black !important;
+  border: 2px solid !important;
+}
+
+.bg-orange {
+  background-color: #76aa6f;
+}
+
+.navbar {
+  position: relative;
+  padding: 110px;
+}

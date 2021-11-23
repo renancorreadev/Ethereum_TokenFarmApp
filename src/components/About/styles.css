@@ -1,0 +1,27 @@
+.MuiSlider-root {
+  background-color: blue;
+}
+
+.paragraph {
+  color: black !important;
+  font-weight: 200;
+  font-size: 18px;
+}
+.titleGrid {
+  font-weight: 500;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.imgGrid {
+  position: relative;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  top: 30px;
+}
+
+.ImageBox {
+  margin-bottom: 30px;
+}

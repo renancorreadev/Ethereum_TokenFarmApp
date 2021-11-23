@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+
+.textMain {
+  color: white;
+  font-size: 30px;
+  margin-top: 200px;
+  position: relative;
+  bottom: 100px;
+}
+
+.box {
+  border: 3px solid green;
+  background-color: #078f5b;
+  position: relative;
+  padding: 35px;
+  top: 90px;
+  border-radius: 30px;
+  right: 40px;
+}
+.box2 {
+  border: 3px solid green;
+  background-color: #5dcea3;
+  position: relative;
+  padding: 35px;
+  top: 90px;
+  border-radius: 30px;
+}
+
+.SheepDam {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  margin-right: 40px;
+}
+.UsdDawm {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  margin-right: 40px;
+}
+.AmountSheep {
+  color: rgb(14, 15, 6);
+  font-family: "Rampart One", cursive;
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+.AmountUSD {
+  font-family: "Rampart One", cursive;
+  color: rgb(14, 15, 6);
+  font-weight: bold;
+  position: relative;
+  top: 45px;
+}
+
+.title-main {
+  font-family: "Rampart One", cursive;
+  color: green;
+  font-weight: bold;
+  font-size: 45px;
+  position: relative;
+  margin-top: 60px;
+}
+.banner {
+  margin: auto;
+  width: 100%;
+  height: 400px;
+  background-color: rgb(184, 219, 184) !important;
+}
+.connectbutton {
+  position: relative;
+  top: 50px;
+}
+.texbanner {
+  font-family: "Rampart One", cursive;
+  color: rgb(0, 0, 0);
+  text-shadow: 30px;
+  font-size: 60px;
+  font-weight: bold;
+  position: relative;
+  left: 0px;
+  bottom: 350px;
+  z-index: 0;
+}
+.subtitle {
+  border: 1px solid;
+  border-color: green;
+  border-radius: 10px;
+  background-color: yellow;
+  padding: 10px;
+  position: relative;
+  top: 50px;
+}
+
+.Metamask {
+  width: 100%;
+  height: 100%;
+}
+
+.text {
+  position: relative;
+  margin-top: 60px;
+}

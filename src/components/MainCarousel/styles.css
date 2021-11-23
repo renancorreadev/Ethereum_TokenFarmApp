@@ -1,0 +1,33 @@
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  bottom: 2px;
+}
+
+.carousel {
+  position: relative;
+  bottom: 25px;
+}
+
+@media (max-width: 768px) {
+  .carousel,
+  .item,
+  .active {
+    height: 82vh;
+    width: 100%;
+  }
+  .carousel-inner {
+    height: 82vh;
+    width: 100%;
+  }
+  .carousel-inner > .item > img {
+    height: 82vh;
+    width: 100%;
+  }
+
+  .carousel-container {
+    height: 82vh;
+    width: 100%;
+  }
+}
